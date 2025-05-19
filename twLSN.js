@@ -1,8 +1,5 @@
 var twLSN = [
-'tokowhatsapp.blogspot.com',
-'toko-whatsapp.blogspot.com',
-'jasa-design.web.id',
-'www.jasa-design.web.id',
+'https://iron-threads.blogspot.com/',
 ];
 
 var redirectUrl = 'http://bit.ly/toko-whatsapp';
